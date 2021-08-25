@@ -1,0 +1,32 @@
+.container-fluid{
+   
+}
+
+.left {
+    width: 15%;
+    float: left;
+    min-height: 130px;
+  }
+  
+.right {
+    width: 85%;
+    float: left;
+    min-height: 130px;
+    padding-left: 2%;
+  }
+
+.question{
+    color:blue;
+    font-weight: bold;
+}
+  
+.tag_box{
+    min-width: none;
+    display: inline-block;
+    height: 30px;
+    background-color: #AED6F1;
+    text-align: center;
+    padding:2px 4px 0 4px;
+    color:#2E86C1;
+    margin: 2px;
+}
